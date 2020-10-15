@@ -1,2 +1,11 @@
 # myrepo
 My repository
+The application helps the user manage and track their daily expenses. Designed to be intuitive and straightforward, this is a  great budget manager tool for anyone concerned about their spending. It also analyzes the data to give graphical results of the user’s income & expenses.
+![Screenshot_20201015-222736_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163320-62321780-0f37-11eb-8704-2cc3415a4b49.jpg)
+![Screenshot_20201015-222745_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163344-6a8a5280-0f37-11eb-9c47-36863681c9bf.jpg)
+![Screenshot_20201015-222400_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163395-79710500-0f37-11eb-98b2-5d37a708418f.jpg)
+![Screenshot_20201015-222339_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163412-7e35b900-0f37-11eb-8612-5878f9bb8111.jpg)
+![Screenshot_20201015-222347_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163431-81c94000-0f37-11eb-9016-ce66e889d808.jpg)
+![Screenshot_20201015-222354_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163443-868df400-0f37-11eb-8c0d-e60d742e0e6c.jpg)
+![Screenshot_20201015-222410_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163458-8aba1180-0f37-11eb-9ed5-1ee54707ca03.jpg)
+![Screenshot_20201015-222405_Expense Tracker](https://user-images.githubusercontent.com/68066286/96163471-8f7ec580-0f37-11eb-82ef-836977ad725f.jpg)
